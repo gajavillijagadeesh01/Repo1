@@ -1,3 +1,3 @@
 !/bin/bash
 
-echo " Hi All Welcome to DEVOPS"
+echo " Hi All Welcome to AWS DEVOPS"
